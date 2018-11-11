@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">NeuralHub</string>
+    <string name="action_settings">Settings</string>
+    <string name="name_label">Name:</string>
+    <string name="name_hint">input object name</string>
+    <string name="confirmation">done</string>
+</resources>
